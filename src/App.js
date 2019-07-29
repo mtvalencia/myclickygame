@@ -1,26 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import CatCard from "./components/CatCard";
+import Wrapper from "./components/Wrapper";
+import Title from "./components/Title";
+import cats from "./cats.json";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+
+  state = {
+    cats
+  };
+
+
+  render() {
+    return (
+      <Wrapper>
+        <Title>Click on a cat?</Title>
+        {this.state.cats.map(cat => (
+          <CatCard
+            name={cat.name}
+            image={cat.image}
+            ptvalue={cat.ptvalue}
+            timesClicked={cat.timesClicked}
+          />
+        ))}
+      </Wrapper>
+    );
+  }
 }
 
 export default App;

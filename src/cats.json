@@ -1,0 +1,30 @@
+[
+    {
+        "id" : 1,
+        "name" : "c1",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/3/38/Shaded_silver_Persian_Cat_Missionhill_Cosmic_Rainstorm.jpg",
+        "ptvalue" : 1,
+        "timesClicked" : 0
+    },
+    {
+        "id" : 2,
+        "name" : "c2",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/White_Persian_Cat.jpg/220px-White_Persian_Cat.jpg",
+        "ptvalue" : 1,
+        "timesClicked" : 0
+    },
+    {
+        "id" : 3,
+        "name" : "c3",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/b/b2/WhiteCat.jpg",
+        "ptvalue" : 1,
+        "timesClicked" : 0
+    },
+    {
+        "id" : 4,
+        "name" : "c4",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Astrid_com_orelhonas-crop.jpg/220px-Astrid_com_orelhonas-crop.jpg",
+        "ptvalue" : 1,
+        "timesClicked" : 0
+    }
+]
