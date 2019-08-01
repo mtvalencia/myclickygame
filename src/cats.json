@@ -2,29 +2,41 @@
     {
         "id" : 1,
         "name" : "c1",
-        "image" : "https://upload.wikimedia.org/wikipedia/commons/3/38/Shaded_silver_Persian_Cat_Missionhill_Cosmic_Rainstorm.jpg",
-        "ptvalue" : 1,
-        "timesClicked" : 0
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/3/38/Shaded_silver_Persian_Cat_Missionhill_Cosmic_Rainstorm.jpg"
     },
     {
         "id" : 2,
         "name" : "c2",
-        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/White_Persian_Cat.jpg/220px-White_Persian_Cat.jpg",
-        "ptvalue" : 1,
-        "timesClicked" : 0
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/White_Persian_Cat.jpg/220px-White_Persian_Cat.jpg"
     },
     {
         "id" : 3,
         "name" : "c3",
-        "image" : "https://upload.wikimedia.org/wikipedia/commons/b/b2/WhiteCat.jpg",
-        "ptvalue" : 1,
-        "timesClicked" : 0
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/b/b2/WhiteCat.jpg"
     },
     {
         "id" : 4,
         "name" : "c4",
-        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Astrid_com_orelhonas-crop.jpg/220px-Astrid_com_orelhonas-crop.jpg",
-        "ptvalue" : 1,
-        "timesClicked" : 0
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Astrid_com_orelhonas-crop.jpg/220px-Astrid_com_orelhonas-crop.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "c5",
+        "image" : "https://upload.wikimedia.org/wikipedia/commons/0/06/White-Cat.JPG"
+    },
+    {
+        "id" : 6,
+        "name" : "c6",
+        "image" : "http://images6.fanpop.com/image/photos/32300000/White-Cat-cats-32314612-410-410.jpg"
+    },
+    {
+        "id" : 7,
+        "name" : "c7",
+        "image" : "https://c1.staticflickr.com/8/7180/6981579685_18576d5cd5_n.jpg"
+    },
+    {
+        "id" : 8,
+        "name" : "c8",
+        "image" : "http://img07.deviantart.net/a5d7/i/2011/241/3/6/blue_eyes_cat_1_by_smolensk65-d48901l.jpg"
     }
 ]
